@@ -77,5 +77,4 @@ The dataset includes passenger information such as:
 📌 Integrate more data sources for deeper insights.  
 
 ---
-
-💡 *If you found this project useful, feel free to ⭐ the repository!*  
+ 
